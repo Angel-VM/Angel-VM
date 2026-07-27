@@ -17,5 +17,8 @@ As the PDF files are named by the project's name, here you have a brief descript
 
 Please feel free to ask for any further info about me or my projects.
 
+LinkedIn: https://www.linkedin.com/in/angel-v%C3%A1zquez-3415b8209/
+Instagram: @vazquez.angl
+
 *Note: I'm still working in this portfolio so it can be that one or more files are not up to date. 
 Hope to see you in the next step!!
