@@ -22,3 +22,6 @@ Instagram: @vazquez.angl
 
 *Note: I'm still working in this portfolio so it can be that one or more files are not up to date. 
 Hope to see you in the next step!!
+
+<img width="612" height="792" alt="SVG WHITE AZTLAN" src="https://github.com/user-attachments/assets/86ca99ad-3acc-49e3-b8e7-3207d53eb6ef" />
+
