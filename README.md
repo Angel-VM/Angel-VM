@@ -23,7 +23,9 @@ Instagram: @vazquez.angl
 *Note: I'm still working in this portfolio so it can be that one or more files are not up to date. 
 Hope to see you in the next step!!
 
+<img width="150" height="151" alt="SOLIDWORKS DESIGN - ASSOCIATE" src="https://github.com/user-attachments/assets/db2a1944-c374-4e7e-beec-bb766578325f" />
 <img width="150" height="200" alt="SVG WHITE AZTLAN" src="https://github.com/user-attachments/assets/86ca99ad-3acc-49e3-b8e7-3207d53eb6ef" />
 <img width="150" height="200" alt="Vultur Negativo Supresión Imagotipo" src="https://github.com/user-attachments/assets/e2fb611a-a42c-409e-88f4-df3761fd3a55" />
+
 
 
