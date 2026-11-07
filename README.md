@@ -4,7 +4,7 @@ You will find the next format:
 - Certificates: here is where I have placed the most relevant diplomas and certificates.
 - PDF files: brief reports of projects where I have contributed or that have been developed completely by myself.
 
-As the PDF files are named by the project's name, here you have a brief description and a list of the main topics in each project.
+As the PDF files are named by the project's name, here you have a brief description and a list of the main topics in each project. One or more PDFs are not in this repo but you can take a look in LinkedIn (see the link below)
 
 - Starscream: Angel's most ambitious project so far. His third fully design and fabricated rocket. #ActiveControl #EKF #CompositeMotor #LinearDynamics #ANSYS
 - Noctiluca: Cansat design, fabrication and launch for the University Space Program of UNAM (PEU). #Electronics #Mechanics #Integration #PCB #Fluent #Telemetry
